@@ -1,2 +1,2 @@
 # amritn-pub
-Rio's Student account Public
+Amrit's Student account Public
